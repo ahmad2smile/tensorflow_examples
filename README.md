@@ -2,3 +2,4 @@
 
 
 - Linear Regression
+- Deep Neural Network Classifier
