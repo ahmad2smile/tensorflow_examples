@@ -5,3 +5,4 @@
 -   Hidden Markov Models
 -   Neural Network Image Classification
 -   Natural Language Processing
+-   Recurrent Neural Network Drama Writer
